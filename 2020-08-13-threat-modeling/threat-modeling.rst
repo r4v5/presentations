@@ -2,7 +2,6 @@
 :author: r4v5
 :css: threatmodeling.css
 :data-transition-duration: 100
-:skip-help: true
 
 .. title: Welcome and Threat Modeling
 
@@ -85,10 +84,12 @@ Legal repercussions/state repression, their lives
 Adversaries
 ===========
 
-* Who is your adversary? What are they capable of?
+Who is your adversary?
+
+* How motivated are they?
+* What are they technically capable of?
+* What resources do they have at their disposal?
 * Are they bound by the rule of law?
-* How technically savvy are they?
-* What resources do they have at their disposal to discover your secrets?
 
 ----
 
@@ -139,7 +140,7 @@ Widespread government surveillance of protest actions
 
 White supremacist vigilantes
 
-* Generally not extremely technical
+* Generally not extremely technical, but sometimes
 * Lots of obsessive digging, though
 * Not bound by law
 
